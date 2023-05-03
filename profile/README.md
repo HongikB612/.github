@@ -8,7 +8,6 @@ B612는 홍익대학교 내 개발 기술에 관심있는 학생들을 위한 �
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/HongikB612/.github/main/asset/greendev-img.png" alt="greendevelopers image" >
-" alt="greendevelopers image">
 </p>
 
 B612는 홍익대학교 내 유일한 Naver Cloud와의 제휴 관계에 있는 단체입니다. Naver Cloud의 예비 개발자 지원 프로그램 **Green Developers** 소속으로 참여하고 있습니다.
