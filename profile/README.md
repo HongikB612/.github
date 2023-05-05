@@ -1,6 +1,7 @@
 ## B612
-Communauté de développeurs du les Petit Princes <br>
-홍익대학교 개발 소모임 B612
+<img src="https://raw.githubusercontent.com/HongikB612/.github/main/asset/logo_origin.png" alt="b612 logo"> <br>
+**Communauté de développeurs du les Petit Princes** <br>
+어린왕자 개발 커뮤니티 B612
 
 B612는 홍익대학교 내 개발 기술에 관심있는 학생들을 위한 사립 소모임입니다.
 
