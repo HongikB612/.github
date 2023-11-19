@@ -1,5 +1,6 @@
 ## B612
-<img src="../asset/23-2-logo.png" alt="b612 logo"> <br>
+![B612_LOGO_final_B612_logo-color](https://github.com/HongikB612/.github/assets/103521468/03781101-0eac-4549-a1cc-360c9bca465c)
+
 **Communauté de développeurs du les Petit Princes** <br>
 어린왕자 개발 커뮤니티 B612
 
@@ -11,7 +12,7 @@ B612에 대한 자세한 정보는 [About B612](https://hongik-b612.notion.site/
 ## Naver Cloud 제휴
 
 <p align="center">
-<img src="../asset/greendev-img.png" alt="greendevelopers image" >
+<img src="https://raw.githubusercontent.com/HongikB612/.github/main/asset/greendev-img.png" alt="greendevelopers image" >
 </p>
 
 B612는 홍익대학교 내 유일한 Naver Cloud와의 제휴 관계에 있는 단체입니다. Naver Cloud의 예비 개발자 지원 프로그램 **Green Developers** 소속으로 참여하고 있습니다.
